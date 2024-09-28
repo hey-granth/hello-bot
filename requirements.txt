@@ -1,0 +1,7 @@
+appdata==2.2.1
+charset-normalizer==2.1.1
+click==8.1.7
+colorama==0.4.6
+colored==2.2.4
+poetry-add-requirements.txt==1.4.0
+to-requirements.txt==2.0.11
